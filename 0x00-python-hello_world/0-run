@@ -1,2 +1,2 @@
 #!/bin/bash
-cat $PYFILE | python3
+python python_script.py
