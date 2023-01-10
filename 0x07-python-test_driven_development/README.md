@@ -1,1 +1,1 @@
-0x07. Python - Test-driven development by Zeboa
+0x07. Python - Test-driven development zerabyirga@gmail.com zeboa
